@@ -15,7 +15,7 @@ I'm Stephen Addo, a final-year Computer Science student at Lancaster University,
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Steve-IX&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Inspirational Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
