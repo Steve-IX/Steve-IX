@@ -36,6 +36,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=erlang&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 ### ⚙️ Tools & Platforms:
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929c4?style=flat-square&logo=ibm&logoColor=white)
