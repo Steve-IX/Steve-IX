@@ -1,27 +1,76 @@
+<h1 align="center">Hi 👋, I'm Stephen Addo</h1>
+<h3 align="center">Final-Year Computer Science Student | Quantum Enthusiast | Backend Engineer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Building+future-ready+systems+with+C%2B%2B+%26+Python;Quantum+Computing+%7C+AI+%7C+Backend+Engineering;Always+Learning+%E2%9C%85+Always+Improving+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+---
+
 # 💫 About Me:
-I'm Stephen Addo, a final-year Computer Science student at Lancaster University, on track for First-Class Honours. My academic focus lies in systems programming, AI, and quantum computing, with hands-on experience across low-level C development, backend engineering, and quantum algorithm design.<br><br>My dissertation explores QAOA and Grover’s Algorithm using IBM Qiskit, applying them to combinatorial problems like the Traveling Salesman Problem. I’ve also built recursive-descent parsers, 3D physics simulations, and scalable AI tools through roles at Labelbox, Outlier AI, and university-led projects.<br><br>Skilled in C++, Python, Java, C, and SQL, I aim to build performant, elegant, and impactful software across classical and quantum systems.
+🎓 I'm **Stephen Addo**, a final-year BSc Computer Science student at **Lancaster University**, on track for **First-Class Honours**.  
+🧠 My academic interests span **systems programming**, **AI**, and **quantum computing** — where I explore the cutting edge of technology.  
+🔬 My dissertation applies **QAOA** and **Grover's Algorithm** via **IBM Qiskit**, tackling problems like the **Traveling Salesman Problem**.  
+🛠️ I’ve engineered solutions in **C++, Python, Java**, and **C**, from low-level microcontroller development to high-level AI tooling.  
+🌍 I’ve worked at **Labelbox** and **Outlier AI**, creating scalable tools for real-world AI systems and data pipelines.
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/stephen-addo-568b43215/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.stephenyeboah04@gmail.com) 
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/stephen-addo-568b43215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:a.stephenyeboah04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=plastic&logo=julia&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=plastic&logo=scala&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=plastic&logo=javafx&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Steve-IX&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Steve-IX&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Steve-IX&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
+## 💻 Tech Stack
+
+### 👨‍💻 Languages & Frameworks:
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+
+### ⚙️ Tools & Platforms:
+![Qiskit](https://img.shields.io/badge/Qiskit-6929c4?style=flat-square&logo=ibm&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Steve-IX&show_icons=true&theme=transparent&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steve-IX&layout=compact&theme=transparent&hide_border=false" alt="Top Languages" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Steve-IX&theme=transparent&hide_border=false" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 Achievements & Highlights
 ![](https://github-profile-trophy.vercel.app/?username=Steve-IX&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Inspirational Quotes
+---
+
+## ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
 
-### 🔝 Top Contributed Repo
+---
+
+## 🚀 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=Steve-IX&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Steve-IX&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Steve-IX&icon=0&color=0" alt="profile views" />
+</p>
+
+<!-- Proudly enhanced using Awesome GitHub Profile README inspiration: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
