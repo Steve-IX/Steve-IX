@@ -2,7 +2,7 @@
 <h3 align="center">Final-Year Computer Science Student | Quantum Enthusiast | Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Building+future-ready+systems+with+C%2B%2B+%26+Python;Quantum+Computing+%7C+AI+%7C+Backend+Engineering;Always+Learning+%E2%9C%85+Always+Improving+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Building+future-ready+systems+with+C%2B%2B+%26+Python;Quantum+Computing+%7C+AI+%7C+Backend+Engineering;Always+Learning+%E2%9C%85+Always+Improving+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 ---
