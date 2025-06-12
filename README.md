@@ -67,4 +67,4 @@
 
 ## 🚀 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=Steve-IX&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
