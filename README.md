@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
 <h1 align="center">Hi 👋, I'm Stephen Addo</h1>
 <h3 align="center">Final-Year Computer Science Student | Quantum Enthusiast | Backend Engineer</h3>
 
@@ -67,10 +68,8 @@
 ## 🚀 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=Steve-IX&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Steve-IX&icon=0&color=0" alt="profile views" />
-</p>
+
 
 <!-- Proudly enhanced using Awesome GitHub Profile README inspiration: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
