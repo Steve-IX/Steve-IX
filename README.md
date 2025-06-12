@@ -6,6 +6,7 @@
 </p>
 
 ---
+<img src="https://github.com/stephenaddo99/stephenaddo99/assets/139329203/71a76d0e-6407-4043-b80a-77c032ba0729" width="100%" />
 
 # 💫 About Me:
 🎓 I'm **Stephen Addo**, a final-year BSc Computer Science student at **Lancaster University**, on track for **First-Class Honours**.  
