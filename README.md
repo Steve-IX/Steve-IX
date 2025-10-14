@@ -51,6 +51,11 @@
 ---
 
 ## 📈 GitHub Stats
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Steve-IX&show_icons=true&theme=transparent&hide_border=false&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steve-IX&layout=compact&theme=transparent&hide_border=false" alt="Top Languages" />
