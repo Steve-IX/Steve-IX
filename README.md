@@ -13,7 +13,15 @@
 🧠 My academic interests span **systems programming**, **AI**, and **quantum computing** where I explore the cutting edge of technology.  
 🔬 My dissertation applies **QAOA** and **Grover's Algorithm** via **IBM Qiskit**, tackling problems like the **Traveling Salesman Problem**.  
 🛠️ I’ve engineered solutions in **C++, Python, Java**, and **C**, from low-level microcontroller development to high-level AI tooling.  
-🌍 I’ve worked at **Labelbox** and **Outlier AI**, creating scalable tools for real-world AI systems and data pipelines.
+🌍 I've worked at **Labelbox** and **Outlier AI**, creating scalable tools for real-world AI systems and data pipelines.
+
+---
+
+## 🎯 Polymath Skill Spectrum
+
+<div align="center">
+  <img src="./assets/polymath-skill-graph.svg" alt="Polymath Skill Graph" width="85%" />
+</div>
 
 ---
 
