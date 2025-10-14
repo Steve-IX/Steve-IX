@@ -17,14 +17,6 @@
 
 ---
 
-## 🎯 Polymath Skill Spectrum
-
-<div align="center">
-  <img src="./assets/polymath-skill-graph.svg" alt="Polymath Skill Graph" width="85%" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/stephen-addo-568b43215/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
